@@ -1,2 +1,2 @@
 This is a test to see if I understand how to push
-This is a test to see if i can pull
+This is a test to see if i can merge and pull
